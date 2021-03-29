@@ -52,7 +52,7 @@ prometheus-client==0.4.0
 prompt-toolkit==2.0.5
 pt-core-news-sm==2.0.0
 pycparser==2.19
-Pygments==2.2.0
+Pygments==2.7.4
 pygov-br==0.1.0
 pyOpenSSL==18.0.0
 pyparsing==2.2.2
